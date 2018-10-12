@@ -1,4 +1,4 @@
-# cave-stereoscopic-unity3d
+# Stereoscopic rendering in Unity3d for the cave platform
 
 #### Unity 2017.1.2
 To enable stereoscopic in Unity3d 2017.1.2 just add the Stereo Display (non head-mounted)
