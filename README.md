@@ -24,6 +24,10 @@ in your code. Now you can select stereo in the settings.
 
 Now run with Unity with `-vrmode stereo` and you should get a stereoscopic output (Resolved in the 2017.2.0P2 patch).
 
+#### Unity 2017.2.0p2
+The [2017.2.0p2 Patch](https://unity3d.com/de/unity/qa/patch-releases/2017.2.0p2) fixes the issue that the Stereo Display (non head-mounted) is missing.
+> (None) XR: Added back Stereo Display (non head-mounted).
+
 #### Unity 2018
 It looks like Unity 2018.2 supports Stereo Display (non head-mounted) again.  
 ![Stereo Display (non head-mounted)](/readme-resources/settings-2018-2.png)  
